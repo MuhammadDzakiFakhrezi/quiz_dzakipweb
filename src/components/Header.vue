@@ -73,7 +73,7 @@
                       <div class="carousel-item active" data-bs-interval="10000">
                         <img src="../images/1.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                          <h5>Panitia Seminas Nasional</h5>
+                          <h5>Panitia Seminar Nasional</h5>
                           <p>Disini saya menjadi kepanitiaan divisi hid.</p>
                       
                         </div>
